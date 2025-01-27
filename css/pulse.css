@@ -1,0 +1,27 @@
+.card {
+    background-color: #111111;
+    color: #ffffff; /* This sets the text color to white for better readability */
+  }
+  
+  .card .card-title {
+    color: #ffffff;
+  }
+  
+  /* Optionally, if you want to change the modal content background as well */
+  .modal-content {
+    background-color: #111111;
+    color: #ffffff;
+  }
+  
+  /* If you also want to change the modal header background */
+  .modal-header {
+    background-color: #222222; /* Slightly different shade for the header */
+    border-bottom: 1px solid #444444; /* To differentiate the header from the body */
+  }
+  
+  /* Changing the modal-footer background, if you have one */
+  .modal-footer {
+    background-color: #222222;
+    border-top: 1px solid #444444;
+  }
+  

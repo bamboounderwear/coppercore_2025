@@ -1,0 +1,17 @@
+ <div class="bg-dark position-relative">
+      <div class="container px-vw-5 py-vh-5">
+        <div class="row d-flex align-items-center">
+
+          <div class="col-12 col-lg-7">
+            <img class="img-fluid rounded-5 mb-n5 shadow" src="img/ANTONIO_COPPER.jpg" width="512" height="512"
+              alt="a nice person" loading="lazy" data-aos="zoom-in-right">
+          </div>
+          <div class="col-12 col-lg-5 bg-dark rounded-5 py-5" data-aos="fade">
+            <span class="h5 text-secondary fw-lighter">Let's meet!</span>
+            <h2 class="display-4">COPPERCORE is focused on the exploration for and development of economically-viable copper deposits in Mexico that lead to a profitable mining scenario.</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    https://www.linkedin.com/in/dennis-b-a3549723/
